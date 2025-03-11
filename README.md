@@ -37,7 +37,7 @@ Updates made to ```randomizeQuestion```:
 
 ## CodeSandbox Link
 
-- You can view and test the project here: [CodeSandbox Fork](https://codesandbox.io/p/github/mhdamaan79/achievable-coding-challenge/main?embed=1&import=true&workspaceId=ws_QcPZyFbCVzJZ2ESaPWiCb1)
+- You can view and test the project here: [CodeSandbox Fork](https://codesandbox.io/p/github/mhdamaan79/achievable-coding-challenge/main?file=%2Fsrc%2Findex.mjs)
 
 ## Challenges Faced & Solutions
 
